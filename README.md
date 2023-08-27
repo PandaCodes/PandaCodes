@@ -1,6 +1,8 @@
-### Hi there 👋
-I am ML Engineer with interest in neuroscience and biochemistry 
+IT Engineer with an interest in neuroscience and biochemistry.
 
+
+
+(README under developement...)
 <!--
 **PandaCodes/PandaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
